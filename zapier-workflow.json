@@ -1,0 +1,8 @@
+{
+  "name": "Daily AI News to Telegram",
+  "steps": [
+    { "trigger": "Schedule by Zapier", "details": "Daily AI News Check" },
+    { "action": "AI by Zapier", "details": "Analyze and Return Data" },
+    { "action": "Telegram", "details": "Send Message" }
+  ]
+}
